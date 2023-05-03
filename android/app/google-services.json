@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "447838458565",
+    "project_id": "tenantmanagement-8b61d",
+    "storage_bucket": "tenantmanagement-8b61d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447838458565:android:cedf1b33a108e6aefd56ac",
+        "android_client_info": {
+          "package_name": "com.snine.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447838458565-apa726e1bohslfqja8dvd9dm2dsjhvhf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snine.app",
+            "certificate_hash": "99dab543e2e6ed8361617ea04e1784ba49eba510"
+          }
+        },
+        {
+          "client_id": "447838458565-t4vmqk98sicm3ftnp9q26m856c8hgbs2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snine.app",
+            "certificate_hash": "30a1d8a59995b5dce86c42d14705f1707be0fdf6"
+          }
+        },
+        {
+          "client_id": "447838458565-vb2ksij5qlsk2pj2gem8nkes25som5rq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snine.app",
+            "certificate_hash": "63f99db9d8f6947b81c1533f2f8ff73a507ffeb6"
+          }
+        },
+        {
+          "client_id": "447838458565-l0vkukthk6b4rntjcdv7a5u24gt3dlt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAlNDRAu3Skn9rdCb2fLdDHUnrEk-Zckw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447838458565-l0vkukthk6b4rntjcdv7a5u24gt3dlt5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "447838458565-aio623m9u3opasvuitp86296fureoqd8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tenantmgmnt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
